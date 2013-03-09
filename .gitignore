@@ -1,0 +1,21 @@
+.DS_Store
+._.DS_Store
+/.bundle
+/.vagrant
+/.vagrantfile
+/cache
+/coverage/*
+
+# Ignore Eclipse .project file
+/.project
+
+# Ignore Eclipse .buildpath file
+/.buildpath
+
+# Ignore RubyMine settings
+/.idea
+
+# Vim temp files
+*~
+*.swp
+*.swo
